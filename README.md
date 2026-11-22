@@ -15,8 +15,12 @@
 
 </div>
 
+Computer engineering at GIKI. President of Microsoft Club GIKI and a [GitHub Campus Expert](https://github.com/campus-experts). [LinkedIn](https://www.linkedin.com/in/MustafaAvais).
+
 <h2>Selected work</h2>
 
+- [Movie and TV recommender](https://github.com/MAK030504/Movie_Series_Recommender) — agentic recommendations from taste and watch history
+- [Pakistan Budget Explainer](https://github.com/MAK030504/Pakistan-Budget-Explainer-Bot) — questions about the federal budget, answered from the source PDFs
 - [Skin Burn](https://github.com/MAK030504/Skin_Burn_Fyp) — burn-wound severity and recovery, GIKI computer engineering final-year project
 - [Vivado MCP](https://github.com/MAK030504/vivado-mcp) — MCP server for AMD Vivado
 - [EcoSense](https://github.com/MAK030504/ECO_SENSE) — campus environment monitor
@@ -24,9 +28,12 @@
 - [ChainSplit](https://github.com/MAK030504/ChainSplit) — shared expenses on Avalanche Fuji
 - [Parkinson TinyML](https://github.com/MAK030504/Parkinson-TinyML) — keystroke model on the PhysioNet MIT-CS2PD set
 
-<h2>Also</h2>
+<h2>Microsoft Club</h2>
 
-- [Microsoft Club GIKI](https://github.com/Microsoft-Club/Microsoft_Club_Website)
+- [Club website](https://github.com/Microsoft-Club/Microsoft_Club_Website) — events, members, projects, podcasts, and blogs
+- [StrateGIK](https://github.com/Microsoft-Club/StrateGIK) — student portal for news, documents, and campus tools
+
+Co-authored an IEEE conference paper on an IoT and AI framework for Islamabad as a smart city. Event head for HackGit, Base × GIKI, and Ideathon with Google Developer Groups on Campus.
 
 <!--
 This README is the GitHub profile page. GitHub renders it only from a public

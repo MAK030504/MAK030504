@@ -18,7 +18,9 @@ ACCENT = "#3fb950"
 LINES = [
     ("now", "Computer engineering, GIKI"),
     ("years", "2023 – 2027"),
-    ("focus", "Health ML, campus products, hardware"),
+    ("role", "Microsoft Club president"),
+    ("also", "GitHub Campus Expert"),
+    ("focus", "Health ML, policy, hardware"),
     ("stack", "Python, TypeScript, FastAPI"),
     ("", "Next.js, TinyML, Vivado"),
     ("place", "Topi, Pakistan"),
