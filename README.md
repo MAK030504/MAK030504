@@ -27,7 +27,6 @@
 <h2>Also</h2>
 
 - [Microsoft Club GIKI](https://github.com/Microsoft-Club/Microsoft_Club_Website)
-- [GIKI Wallet](https://github.com/onemojo-jojo/giki-wallet)
 
 <!--
 This README is the GitHub profile page. GitHub renders it only from a public
