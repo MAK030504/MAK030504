@@ -1,10 +1,10 @@
 {
   "username": "MAK030504",
-  "fetched_at": "2026-11-26T16:58:53+00:00",
-  "reported_total": 507,
-  "total": 507,
-  "current_streak": 5,
-  "longest_streak": 5,
+  "fetched_at": "2026-11-27T16:44:29+00:00",
+  "reported_total": 513,
+  "total": 513,
+  "current_streak": 7,
+  "longest_streak": 7,
   "best_day": "2026-11-21",
   "best_count": 55,
   "days": [
@@ -1835,7 +1835,7 @@
     },
     {
       "date": "2026-11-23",
-      "count": 8,
+      "count": 9,
       "level": 1
     },
     {
@@ -1850,8 +1850,13 @@
     },
     {
       "date": "2026-11-26",
-      "count": 0,
-      "level": 0
+      "count": 2,
+      "level": 1
+    },
+    {
+      "date": "2026-11-27",
+      "count": 3,
+      "level": 1
     }
   ]
 }
